@@ -27,6 +27,6 @@ En la pestaña "My Courses" accedemos para crear el Curso 1
 Despues, realizamos la creacion de los usuarios, en la pestaña de "Add new user"
 Acto seguido, entramos al curso para gestionar la asignación de roles, asignamos los debidos roles al usuario creado anteriormente y concluimos.
 
-![e820d06a-403b-4778-9f8a-d20a829b7e28](https://github.com/user-attachments/assets/839e8dd9-7227-46f4-bd92-e804ed056457)
+![WhatsApp Image 2024-12-06 at 11 09 06 AM](https://github.com/user-attachments/assets/8780b221-59c9-496c-b4cf-1cc5663b8590)
 
 
