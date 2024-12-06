@@ -20,4 +20,13 @@ Una vez accedemos al moodle, creamos el curso para la configuración de este:
 
 Con el acceso a Moodle, empezamos la creación del curso que deseamos levantar.
 
-En la pestaña "My Courses" accedemos para
+En la pestaña "My Courses" accedemos para crear el Curso 1 
+
+![e820d06a-403b-4778-9f8a-d20a829b7e28](https://github.com/user-attachments/assets/36f9fd72-3b93-4428-8ca1-5b3d3716f4da)
+
+Despues, realizamos la creacion de los usuarios, en la pestaña de "Add new user"
+Acto seguido, entramos al curso para gestionar la asignación de roles, asignamos los debidos roles al usuario creado anteriormente y concluimos.
+
+![e820d06a-403b-4778-9f8a-d20a829b7e28](https://github.com/user-attachments/assets/839e8dd9-7227-46f4-bd92-e804ed056457)
+
+
